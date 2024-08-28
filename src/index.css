@@ -1,0 +1,20 @@
+* {
+  font-family: "Poppins", sans-serif;
+}
+.wrap {
+  display: grid;
+  place-items: center;
+}
+p {
+  text-align: center;
+}
+.bt-div {
+  display: flex;
+  justify-content: space-between;
+}
+.bt-div button {
+  color: white;
+  background-color: black;
+  border: 1px solid transparent;
+  border-radius: 5px;
+}
